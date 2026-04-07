@@ -1,0 +1,6 @@
+# Módulos iniciales de Campus U1
+
+- Gestión de cursos
+- Gestión de estudiantes
+- Agenda de entregas
+- Reporte básico de calificaciones
