@@ -2,19 +2,11 @@
 # Completar una línea por integrante.
 # Formato: Nombre completo | Rol | Interés en la materia
 
-<<<<<<< HEAD
-1. ____________________ | ____________________ | ____________________
-2. ____________________ | ____________________ | ____________________
-3. ____________________ | ____________________ | ____________________
-4. Erik Mendez | Integrador | Aprender a registrar versiones de un proyecto de equipo y organizarme con ellos adecuadamente
-5. ____________________ | ____________________ | ____________________
-=======
 1. Hernan Montenegro | Desarrollador | Me gusta el arte
 2. Aileen Waller | Desarrollador | Reforzar conocimientos previos y aprender cosas nuevas
 3. Facundo Rodriguez | Auditor | Aprender las cosas básicas y necesarias para desarrollarme correctamente en la carrera	
-4. ____________________ | ____________________ | ____________________
+4. Erik Mendez | Integrador | Aprender a registrar versiones de un proyecto de equipo y organizarme con ellos adecuadamente
 5. Alejo Texeira | Coordinador| Interesante pero díficil
->>>>>>> e7df85b99d933b40b2f9baf2900fb5245f50f9ed
 
 # Roles sugeridos:
 # - Integrador/a
