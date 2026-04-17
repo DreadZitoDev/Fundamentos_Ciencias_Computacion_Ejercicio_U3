@@ -20,6 +20,7 @@
 - `git branch`: lista ramas.
 - `git checkout -b <rama>`: crea y cambia a nueva rama.
 - `git merge <rama>`: integra cambios de otra rama.
+- cambio en comandos.md para integrar en ramaas evitando merges
 
 ## Sección E - Corrección de errores
 
