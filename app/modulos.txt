@@ -4,3 +4,4 @@
 - Gestión de estudiantes
 - Agenda de entregas
 - Reporte básico de calificaciones
+- Noticias
