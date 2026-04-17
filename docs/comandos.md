@@ -2,8 +2,8 @@
 
 ## Sección A - Inicio del trabajo
 
-- `git clone <url-o-ruta>`: copia el repositorio.
-- `git status`: muestra estado de archivos y rama.
+- `git clone git@github.com:DreadZitoDev/Fundamentos_Ciencias_Computacion_Ejercicio_U3.git`: copia el repositorio.
+- `git status`: muestra estado de archivos y rama. que modificamos :p
 
 ## Sección B - Guardar cambios
 
